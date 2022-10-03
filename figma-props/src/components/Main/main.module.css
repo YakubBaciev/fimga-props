@@ -1,0 +1,14 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+}
+.conteiner {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.productsContainer {
+  display: flex;
+}
